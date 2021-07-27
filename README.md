@@ -1,6 +1,6 @@
 <p align="center"><img src="https://ntuyetngan.com/public/github/readme-top.png">
 
-<p align="center"><img src="https://ntuyetngan.com/public/github/readme-hello.png" align="center">
+## <p align="center"><img src="https://ntuyetngan.com/public/github/readme-hello.png" align="center">
 
 ## Hello! <img src="https://emojis.slackmojis.com/emojis/images/1536959729/4664/ceiling_parrot.gif" width="25px">
 
