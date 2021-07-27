@@ -1,4 +1,4 @@
-<img src="https://ntuyetngan.com/public/github/top.png">
+<img src="https://ntuyetngan.com/public/github/readme-top.png">
 
 ## Hello! <img src="https://emojis.slackmojis.com/emojis/images/1536959729/4664/ceiling_parrot.gif" width="25px">
 
