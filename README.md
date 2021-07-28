@@ -4,11 +4,12 @@
 
 ## <p align="center"><img src="https://ntuyetngan.com/public/github/readme-hello.png" align="center">
 
-My name is Ngan and I'm the Software Engineer you may find anywhere - not the greatest, not someone special, but the guy next door who can get the job done <img src="https://emojis.slackmojis.com/emojis/images/1597609912/10174/wfh_parrot.gif?1597609912" width="15px">
+My name is Ngan and I'm the Software Engineer you may find anywhere - not the greatest, not someone special, but the guy next door who can get the job done <img src="https://emojis.slackmojis.com/emojis/images/1597609912/10174/wfh_parrot.gif" width="15px">
 You can find out more about me here in ✨<a href="https://ntuyetngan.com/" target="_blank">my portfolio</a>✨
 
-### Before you go, please grab a snack xD
+### Before you go, please grab a snack <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png" width="15px">
+Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="15px">
 
-<a href="https://github.com/ngantn1994/ngantn1994/issues/new?title=Pull"><img src="https://ntuyetngan.com/public/github/readme-gacha.gif"></a>
+<a href="https://github.com/ngantn1994/ngantn1994/issues/new?title=roll"><img src="https://ntuyetngan.com/public/github/readme-gacha.gif"></a>
   
 <p align="center"><img src="https://ntuyetngan.com/public/github/readme-bottom.png">
