@@ -8,7 +8,7 @@ My name is Ngan and I'm the Software Engineer you may find anywhere - not the gr
 You can find out more about me here in ✨<a href="https://ntuyetngan.com/" target="_blank">my portfolio</a>✨
 
 ### Before you go, please grab a snack <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png" width="25px">
-Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="25px">
+Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emojis/images/1471119458/989/parrot_dad.gif" width="25px">
 
 <a href="https://github.com/ngantn1994/ngantn1994/issues/new?title=roll"><img src="https://ntuyetngan.com/public/github/readme-gacha.gif"></a>
   
