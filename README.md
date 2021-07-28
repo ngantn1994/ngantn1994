@@ -1,5 +1,3 @@
-(This file is a work in progress, so it's not working for now)
-
 <p align="center"><img src="https://ntuyetngan.com/public/github/readme-top.png">
 
 ## <p align="center"><img src="https://ntuyetngan.com/public/github/readme-hello.png" align="center">
