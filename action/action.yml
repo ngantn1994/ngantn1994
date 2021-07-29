@@ -1,0 +1,17 @@
+name: "Commit Action"
+description: "Trying to commit back to the repo"
+author: "ngantn1994@gmail.com"
+
+inputs:
+  seed:
+    description: "Random parameters"
+    required: false
+    default: "12345678"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "mic"
+  color: "purple"
