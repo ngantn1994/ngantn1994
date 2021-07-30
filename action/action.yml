@@ -3,7 +3,7 @@ description: "Trying to commit back to the repo"
 author: "ngantn1994@gmail.com"
 
 inputs:
-  seed:
+  SEED:
     description: "Random parameters"
     required: false
     default: "12345678"
