@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo Seed is $INPUTS_SEED"
+sh -c "echo Seed is $INPUT_SEED"

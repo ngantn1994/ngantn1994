@@ -5,7 +5,7 @@ author: "ngantn1994@gmail.com"
 inputs:
   SEED:
     description: "Random parameters"
-    required: false
+    required: true
     default: "12345678"
 
 runs:
