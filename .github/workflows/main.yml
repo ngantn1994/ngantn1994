@@ -5,6 +5,7 @@ on:
     
 jobs:
   job1:
+    name: Echo action
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -13,7 +14,7 @@ jobs:
           seed: "1234"
           
   job2:
-    name: Echo action
+    name: Commit action
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -23,5 +24,6 @@ jobs:
         run: |
           git config --global user.name 'Ngan Nguyen'
           git config --global user.email 'ngantn1994@users.noreply.github.com'
+          git add report.txt
           git commit -am "Automated report"
           git push
