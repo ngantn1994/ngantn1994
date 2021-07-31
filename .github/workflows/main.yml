@@ -4,8 +4,7 @@ on:
     types: [opened]
     
 jobs:
-  build:
-    name: Echo action
+  job1:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -13,13 +12,7 @@ jobs:
         with:
           seed: "1234"
           
-name: Test commit
-on:
-  issues:
-    types: [opened]
-    
-jobs:
-  build:
+  job2:
     name: Echo action
     runs-on: ubuntu-latest
     steps:
