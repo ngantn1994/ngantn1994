@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Create report file
         run: |
-          TITLE="${{ github.event.issue.title }}"
+          TITLE="${{ github.event.issue.title }} ${{ github.actor }}"
           echo $TITLE >> report.txt
       - name: Commit report
         run: |
