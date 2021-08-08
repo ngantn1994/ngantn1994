@@ -19,7 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Create report file
-        run: date +%s > report.txt
+        run: |
+          {{ github.event.issue }} > report.txt
       - name: Commit report
         run: |
           git config --global user.name 'Ngan Nguyen'
