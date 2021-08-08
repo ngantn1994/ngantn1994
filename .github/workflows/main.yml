@@ -20,7 +20,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Create report file
         run: |
-          ${{ github.event.issue }} > report.txt
+          title="${{ github.event.issue.title }}"
+          title +%s > report.txt
       - name: Commit report
         run: |
           git config --global user.name 'Ngan Nguyen'
