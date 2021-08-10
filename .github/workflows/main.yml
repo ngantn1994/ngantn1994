@@ -4,27 +4,23 @@ on:
     types: [opened]
     
 jobs:
-  job1:
-    name: Echo action
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: ./action
-        with:
-          seed: "1234"
-          
-  job2:
-    name: Commit action
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Create report file
-        run: |
-          TITLE="${{ github.event.issue.title }} ${{ github.actor }}"
-          echo $TITLE >> report.txt
-      - name: Commit report
-        run: |
-          git config --global user.name 'Ngan Nguyen'
-          git config --global user.email 'ngantn1994@users.noreply.github.com'
-          git commit -am "Automated report"
-          git push
+    
+      steps:
+        - name: checkout repo content
+          uses: actions/checkout@v2 # checkout the repository content to github runner.
+        - name: setup python
+          uses: actions/setup-python@v2
+          with:
+            python-version: 3.8 #install the python needed
+        - name: Create report file
+          run: |
+            TITLE="${{ github.event.issue.title }} ${{ github.actor }}"
+            echo $TITLE >> report.txt
+        - name: Commit report
+          run: |
+            git config --global user.name 'Ngan Nguyen'
+            git config --global user.email 'ngantn1994@users.noreply.github.com'
+            git commit -am "Automated report"
+            git push
