@@ -5,20 +5,20 @@ on:
     
 jobs:
   job1:
-    name: Sequence action
-      runs-on: ubuntu-latest
-        steps:
-          - uses: actions/checkout@v2
-          - uses: actions/setup-python@v2
-            with:
-              python-version: 3.8
-          - name: Create report file
-            run: |
-              TITLE="${{ github.event.issue.title }} ${{ github.actor }}"
-              echo $TITLE >> report.txt
-          - name: Commit report
-            run: |
-              git config --global user.name 'Ngan Nguyen'
-              git config --global user.email 'ngantn1994@users.noreply.github.com'
-              git commit -am "Automated report"
-              git push
+    name: Sequence actions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Create report file
+        run: |
+          TITLE="${{ github.event.issue.title }} ${{ github.actor }}"
+          echo $TITLE >> report.txt
+      - name: Commit report
+        run: |
+          git config --global user.name 'Ngan Nguyen'
+          git config --global user.email 'ngantn1994@users.noreply.github.com'
+          git commit -am "Automated report"
+          git push
