@@ -1,4 +1,4 @@
-name: A workflow to test
+name: Gacha pull on new Issue
 on:
   issues:
     types: [opened]
@@ -12,16 +12,16 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.9
-      - name: Create report file
+      - name: Record action to history
         run: |
-          TITLE="${{ github.event.issue.title }} ${{ github.actor }}"
-          echo $TITLE >> report.txt
+          ISSUE="date +%s ${{ github.actor }} ${{ github.event.issue.title }}"
+          echo $ISSUE >> history.txt
+      - name: Execute script
+        run: |
+          python ./action/action.py
       - name: Commit report
         run: |
           git config --global user.name 'Ngan Nguyen'
           git config --global user.email 'ngantn1994@users.noreply.github.com'
           git commit -am "Automated report"
           git push
-      - name: execute py script # run the run.py to get the latest data
-        run: |
-          python ./action/action.py
