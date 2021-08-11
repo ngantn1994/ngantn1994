@@ -1,1 +1,2 @@
 date +%s ngantn1994 test record history
+2021-08-11 15:54:38 ngantn1994 'test record time'
