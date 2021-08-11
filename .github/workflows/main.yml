@@ -14,7 +14,8 @@ jobs:
           python-version: 3.9
       - name: Record action to history
         run: |
-          ISSUE="date +%s ${{ github.actor }} ${{ github.event.issue.title }}"
+          ISSUE=date +%s
+          ISSUE+=" ${{ github.actor }} '${{ github.event.issue.title }}'"
           echo $ISSUE >> ./action/history.txt
       - name: Execute script
         run: |
