@@ -11,7 +11,7 @@ def get_table_line(history_row):
   return("| @" + history_row[2] + " | " + history_row[1] + " | " + omiyage_name + " <img src=\"https://ntuyetngan.com/public/github/omiyage/" + omiyage_type + "/32/" + omiyage_id +".png\"> |\n")
 
 # read omiyage data and store in omiyage dictionary
-with open('omiyage.csv', 'r') as read_obj:
+with open('./omiyage.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
     for row in csv_reader:
         omiyage[row[0]] = row
@@ -19,12 +19,12 @@ with open('omiyage.csv', 'r') as read_obj:
 result = []
 
 # read the first half of the template
-with open('top.md', 'r') as f:
+with open('./top.md', 'r') as f:
   for line in f:
     result.append(line)
 
 # read the gacha history
-with open('history.csv', 'r') as read_obj:
+with open('./history.csv', 'r') as read_obj:
     # pass the file object to reader() to get the reader object
     csv_reader = reader(read_obj)
     # Iterate over each row in the csv using reader object
@@ -32,7 +32,7 @@ with open('history.csv', 'r') as read_obj:
         result.append(get_table_line(row))
         
 # read the second half of the template
-with open('bottom.md', 'r') as f:
+with open('./bottom.md', 'r') as f:
     for line in f:
         result.append(line)
 

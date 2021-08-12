@@ -25,3 +25,8 @@ jobs:
           git config --global user.email 'ngantn1994@users.noreply.github.com'
           git commit -am "Automated report"
           git push
+      - name: Close Issue
+        uses: peter-evans/close-issue@v1
+        with:
+          comment: |
+            Thank you for waiting! Please go back to my profile page to see what you've got.
