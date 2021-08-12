@@ -2,7 +2,12 @@ name: Gacha pull on new Issue
 on:
   issues:
     types: [opened]
-    
+
+env:
+  seed: "$(date +"%s")"
+  two: zwei
+  three: tres
+
 jobs:
   job1:
     name: Sequence actions
@@ -13,9 +18,7 @@ jobs:
         with:
           python-version: 3.9
       - run: |
-          export SEEDD="$(date +"%s")"
-          echo "::set-env name=SEEDD::$SEEDD"
-      - run: echo $SEEDD
+          echo "${{ env.seed }}"
       - name: Record action to history
         run: |
           SEED="$(date +"%s")"
@@ -33,4 +36,4 @@ jobs:
       - name: Close Issue
         uses: peter-evans/close-issue@v1
         with:
-          comment: $SEEDD
+          comment: ${{ env.seed }}
