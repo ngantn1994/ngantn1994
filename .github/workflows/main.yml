@@ -33,4 +33,4 @@ jobs:
       - name: Close Issue
         uses: peter-evans/close-issue@v1
         with:
-          comment: ${{ GITHUB_ENV.GITHUB_SHA_SHORT }}
+          comment: ${{ env.GITHUB_SHA_SHORT }}
