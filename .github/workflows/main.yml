@@ -14,8 +14,8 @@ jobs:
           python-version: 3.9
       - name: Record action to history
         run: |
-          TIMESTAMP = "$(date +"%s")"
-          ISSUE="$TIMESTAMP,$(date +"%F %T"),${{ github.actor }},'${{ github.event.issue.title }}'"
+          SEED="$(date +"%s")"
+          ISSUE="$SEED,$(date +"%F %T"),${{ github.actor }},'${{ github.event.issue.title }}'"
           echo $ISSUE >> ./action/history.csv
       - name: Execute script
         run: |
@@ -30,4 +30,4 @@ jobs:
         uses: peter-evans/close-issue@v1
         with:
           comment: |
-            Thank you for waiting! $TIMESTAMP Please go back to my profile page.
+            Thank you for waiting! $SEED Please go back to my profile page.
