@@ -29,5 +29,4 @@ jobs:
       - name: Close Issue
         uses: peter-evans/close-issue@v1
         with:
-          comment: |
-            Thank you for waiting! $SEED Please go back to my profile page.
+          comment: $SEED
