@@ -33,4 +33,4 @@ jobs:
       - name: Close Issue
         uses: peter-evans/close-issue@v1
         with:
-          comment: ${{ SEED }}
+          comment: ${{ SEEDD }}
