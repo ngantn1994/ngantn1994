@@ -12,6 +12,7 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 | Guest | Visited At | Omiyage |
 | :--- | :---: | :---: |
+| @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:22:57 | Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/17.png"> |
 | @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:15:45 | Bear Honey Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/1.png"> |
 | @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:13:19 | Fruit Cheese Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/15.png"> |
 | @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:00:35 | Strawberry Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/19.png"> |
