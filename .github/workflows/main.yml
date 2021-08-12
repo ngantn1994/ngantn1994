@@ -3,9 +3,6 @@ on:
   issues:
     types: [opened]
 
-env:
-  seed: date +"%s"
-
 jobs:
   job1:
     name: Sequence actions
@@ -15,8 +12,10 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.9
-      - run: |
-          echo "${{ env.seed }}"
+      - name: Set env
+        run: echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_ENV
+      - name: Test
+        run: echo $GITHUB_SHA_SHORT
       - name: Record action to history
         run: |
           SEED="$(date +"%s")"
@@ -34,4 +33,4 @@ jobs:
       - name: Close Issue
         uses: peter-evans/close-issue@v1
         with:
-          comment: ${{ env.seed }}
+          comment: ${{ GITHUB_SHA_SHORT }}
