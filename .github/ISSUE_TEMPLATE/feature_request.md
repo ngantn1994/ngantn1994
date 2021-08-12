@@ -8,4 +8,7 @@ assignees: ''
 ---
 
 Please submit this issue to trigger the github action!
-After the action ended, this issue will be closed and you can go back to my profile page to see what you got.
+
+After the action ended, this issue will be closed.
+
+You can stay on this page to wait or just check back some minutes later.
