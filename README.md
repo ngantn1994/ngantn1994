@@ -12,7 +12,8 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 | Guest | Visited At | Omiyage |
 | :--- | :---: | :---: |
-| @ngantn1994 | 2021-08-12 14:44:56 | Brownie <img src="https://ntuyetngan.com/public/github/omiyage/0/32/8.png"> |
-| @ngantn1994 | 2021-08-12 14:36:31 | Fruit Cheese Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/15.png"> |
-| @ngantn1994 | 2021-08-11 16:02:26 | Rainbow Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/18.png"> |
+| @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 14:48:55 | Matcha Princess Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/23.png"> |
+| @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 14:44:56 | Brownie <img src="https://ntuyetngan.com/public/github/omiyage/0/32/8.png"> |
+| @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 14:36:31 | Fruit Cheese Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/15.png"> |
+| @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-11 16:02:26 | Rainbow Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/18.png"> |
 <p align="center"><img src="https://ntuyetngan.com/public/github/readme-bottom.png">
