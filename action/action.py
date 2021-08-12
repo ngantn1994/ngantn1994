@@ -23,12 +23,17 @@ with open('./action/top.md', 'r') as f:
   for line in f:
     result.append(line)
 
+gacha_lines = []
+
 # read the gacha history
 with open('./action/history.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
-    for row in reversed(csv_reader):
-        result.append(get_table_line(row))
-        
+    for row in csv_reader:
+        gacha_lines.append(get_table_line(row))
+
+for line in reversed(gacha_lines):
+    result.append(line)
+
 # read the second half of the template
 with open('./action/bottom.md', 'r') as f:
     for line in f:
