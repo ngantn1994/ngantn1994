@@ -14,6 +14,7 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 | Guest | Visited At | Omiyage |
 | :--- | :---: | :---: |
+| @<a href="https://github.com/hungham2806">hungham2806</a> | 2021-08-12 16:07:23 | Oreo Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/26.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-12 16:06:56 | Bear Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/0.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-12 16:00:00 | Bear Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/0.png"> |
 | @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:58:52 | Strawberry Lemonade Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/28.png"> |
@@ -23,5 +24,4 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 | @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:44:23 | Flan Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/22.png"> |
 | @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:41:36 | Lime Cheese Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/16.png"> |
 | @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:40:18 | Rabbit Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/2.png"> |
-| @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 15:38:21 | Caramel Ice Cream Bar <img src="https://ntuyetngan.com/public/github/omiyage/0/32/13.png"> |
 <p align="center"><img src="https://ntuyetngan.com/public/github/readme-bottom.png">
