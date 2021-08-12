@@ -4,9 +4,7 @@ on:
     types: [opened]
 
 env:
-  seed: "$(date +"%s")"
-  two: zwei
-  three: tres
+  seed: $(date +"%s")
 
 jobs:
   job1:
