@@ -18,7 +18,7 @@ jobs:
       - name: Record action to history
         run: |
           SEED=${{ env.GACHA_SEED }}
-          echo "GACHA_ID=$(echo ($SEED % 32))" >> $GITHUB_ENV
+          echo "GACHA_ID=$(echo "$SEED % 32" | bc)" >> $GITHUB_ENV
           ISSUE="$SEED,$(date +"%F %T"),${{ github.actor }},'${{ github.event.issue.title }}'"
           echo $ISSUE >> ./action/history.csv
       - name: Execute script
