@@ -37,6 +37,6 @@ jobs:
             <img src="https://ntuyetngan.com/public/github/readme-top.png">
             
             ### Thank you for waiting! Please have this dessert and come back for more!
-            ${{ env.GACHA_ID }}
+            <img src="https://ntuyetngan.com/public/github/omiyage/0/64/${{ env.GACHA_ID }}.png">
             
             <img src="https://ntuyetngan.com/public/github/readme-bottom.png">
