@@ -31,8 +31,14 @@ with open('./action/history.csv', 'r') as read_obj:
     for row in csv_reader:
         gacha_lines.append(get_table_line(row))
 
+limit = 10
+count = 0
+
 for line in reversed(gacha_lines):
     result.append(line)
+    count += 1
+    if count == limit:
+        break
 
 # read the second half of the template
 with open('./action/bottom.md', 'r') as f:

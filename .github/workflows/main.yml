@@ -34,4 +34,9 @@ jobs:
         uses: peter-evans/close-issue@v1
         with:
           comment: |
+            <img src="https://ntuyetngan.com/public/github/readme-top.png">
+            
+            ### Thank you for waiting! Please have this dessert and come back for more!
             ${{ env.GACHA_ID }}
+            
+            <img src="https://ntuyetngan.com/public/github/readme-bottom.png">
