@@ -15,7 +15,7 @@ jobs:
       - name: Set env
         run: |
           echo "GACHA_SEED=$(date +"%s")" >> $GITHUB_ENV
-          echo "GACHA_ID=${{ env.GACHA_SEED }} % 32" >> $GITHUB_ENV
+          echo "GACHA_ID=$(echo (${{ env.GACHA_SEED }} % 32))" >> $GITHUB_ENV
       - name: Record action to history
         run: |
           SEED=${{ env.GACHA_SEED }}
