@@ -13,7 +13,9 @@ jobs:
         with:
           python-version: 3.9
       - name: Set env
-        run: echo "GACHA_SEED=$(echo $(date +"%s"))" >> $GITHUB_ENV
+        run: |
+          echo "GACHA_SEED=$(date +"%s")" >> $GITHUB_ENV
+          echo "GACHA_ID=$(echo ${{ env.GACHA_SEED }})" >> $GITHUB_ENV
       - name: Test
         run: echo $GITHUB_SHA_SHORT
       - name: Record action to history
