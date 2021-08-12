@@ -25,10 +25,8 @@ with open('./action/top.md', 'r') as f:
 
 # read the gacha history
 with open('./action/history.csv', 'r') as read_obj:
-    # pass the file object to reader() to get the reader object
     csv_reader = reader(read_obj)
-    # Iterate over each row in the csv using reader object
-    for row in csv_reader:
+    for row in reversed(csv_reader):
         result.append(get_table_line(row))
         
 # read the second half of the template
@@ -36,9 +34,7 @@ with open('./action/bottom.md', 'r') as f:
     for line in f:
         result.append(line)
 
-print(result)
-
-f = open("../README.md", "w")
+f = open("./README.md", "w")
 for row in result:
     f.write(row)
 f.close()
