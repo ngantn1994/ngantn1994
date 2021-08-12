@@ -8,7 +8,7 @@ def get_table_line(history_row):
   omiyage_id = str(omiyage_value)
   omiyage_type = omiyage[omiyage_id][1]
   omiyage_name = omiyage[omiyage_id][2]
-  return("| @" + history_row[2] + " | " + history_row[1] + " | " + omiyage_name + " <img src=\"https://ntuyetngan.com/public/github/omiyage/\"" + omiyage_type + "/32/" + omiyage_id +".png |\n")
+  return("| @" + history_row[2] + " | " + history_row[1] + " | " + omiyage_name + " <img src=\"https://ntuyetngan.com/public/github/omiyage/" + omiyage_type + "/32/" + omiyage_id +".png\"> |\n")
 
 # read omiyage data and store in omiyage dictionary
 with open('omiyage.csv', 'r') as read_obj:
