@@ -14,7 +14,7 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 | Guest | Visited At | Omiyage |
 | :--- | :---: | :---: |
-| @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 16:12:48 | Bear Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/0.png"> |
+| @<a href="https://github.com/ngantn1994">ngantn1994</a> | 2021-08-12 16:16:20 | USA Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/20.png"> |
 | @<a href="https://github.com/hungham2806">hungham2806</a> | 2021-08-12 16:07:23 | Oreo Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/26.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-12 16:06:56 | Bear Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/0.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-12 16:00:00 | Bear Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/0.png"> |
