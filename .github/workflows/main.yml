@@ -14,7 +14,7 @@ jobs:
           python-version: 3.9
       - run: |
           export SEEDD="$(date +"%s")"
-          echo "::set-env name=SEED::$SEEDD"
+          echo "::set-env name=SEEDD::$SEEDD"
       - run: echo $SEEDD
       - name: Record action to history
         run: |
