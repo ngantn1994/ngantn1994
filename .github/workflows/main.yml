@@ -13,12 +13,12 @@ jobs:
         with:
           python-version: 3.9
       - name: Set env
-        run: echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_ENV
+        run: echo "GACHA_SEED=$(echo $(date +"%s"))" >> $GITHUB_ENV
       - name: Test
         run: echo $GITHUB_SHA_SHORT
       - name: Record action to history
         run: |
-          SEED="$(date +"%s")"
+          SEED=${{ env.GACHA_SEED }}
           ISSUE="$SEED,$(date +"%F %T"),${{ github.actor }},'${{ github.event.issue.title }}'"
           echo $ISSUE >> ./action/history.csv
       - name: Execute script
@@ -33,4 +33,4 @@ jobs:
       - name: Close Issue
         uses: peter-evans/close-issue@v1
         with:
-          comment: ${{ env.GITHUB_SHA_SHORT }}
+          comment: ${{ env.GACHA_SEED }}
