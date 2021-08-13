@@ -20,6 +20,7 @@ jobs:
           SEED=${{ env.GACHA_SEED }}
           echo "GACHA_ID=$(echo "$SEED % 32" | bc)" >> $GITHUB_ENV
           ISSUE="$SEED,$(date +"%F %T"),${{ github.actor }},'${{ github.event.issue.title }}'"
+          git pull --progress -v --no-rebase
           echo $ISSUE >> ./action/history.csv
       - name: Execute script
         run: |
@@ -29,7 +30,6 @@ jobs:
           git config --global user.name 'Ngan Nguyen'
           git config --global user.email 'ngantn1994@users.noreply.github.com'
           git commit -am "Automated report"
-          git pull --progress -v --no-rebase
           git push
       - name: Close Issue
         uses: peter-evans/close-issue@v1
