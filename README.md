@@ -14,6 +14,7 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 | Guest | Visited At | Omiyage |
 | :--- | :---: | :---: |
+| @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-13 12:19:39 | Peanut Butter Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/27.png"> |
 | @<a href="https://github.com/zaikotuyetngan">zaikotuyetngan</a> | 2021-08-13 04:37:21 | Bear Honey Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/1.png"> |
 | @<a href="https://github.com/vu-bee">vu-bee</a> | 2021-08-12 23:41:43 | Flan Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/22.png"> |
 | @<a href="https://github.com/vu-bee">vu-bee</a> | 2021-08-12 23:41:01 | Caramel Ice Cream Bar <img src="https://ntuyetngan.com/public/github/omiyage/0/32/13.png"> |
