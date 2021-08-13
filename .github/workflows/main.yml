@@ -26,10 +26,10 @@ jobs:
           python ./action/action.py
       - name: Commit report
         run: |
-          git pull
           git config --global user.name 'Ngan Nguyen'
           git config --global user.email 'ngantn1994@users.noreply.github.com'
           git commit -am "Automated report"
+          git pull --progress -v --no-rebase
           git push
       - name: Close Issue
         uses: peter-evans/close-issue@v1
