@@ -24,14 +24,17 @@ with open('./action/top.md', 'r') as f:
     result.append(line)
 
 gacha_lines = []
+skip_username = 'ngantn1994'
 
 # read the gacha history
 with open('./action/history.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
     for row in csv_reader:
+        if row[2] == skip_username:
+            continue
         gacha_lines.append(get_table_line(row))
 
-limit = 10
+limit = 15
 count = 0
 
 for line in reversed(gacha_lines):
