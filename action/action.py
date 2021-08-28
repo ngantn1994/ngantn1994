@@ -42,7 +42,7 @@ def get_gacha_lines(file, omiyage, skip_username, limit):
             if row[2] == skip_username:
                 continue
             gacha_lines.append(gen_table_line(omiyage, row))
-    return reversed(gacha_lines)[0: limit]
+    return list(reversed(gacha_lines))[0: limit]
 
 ########### end of functions to be used ###########
 ########### actual file reading and code generating ###########
