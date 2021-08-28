@@ -14,6 +14,7 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 | Guest | Visited At | Omiyage |
 | :--- | :---: | :---: |
+| @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-28 16:30:51 | Peanut Butter Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/27.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-28 16:30:03 | Strawberry Cupcake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/11.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-28 16:15:23 | Peanut Butter Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/27.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-24 15:17:29 | Campfire Cupcake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/9.png"> |
@@ -28,5 +29,4 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 | @<a href="https://github.com/dhnptit">dhnptit</a> | 2021-08-12 16:19:27 | Fruit Cheese Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/15.png"> |
 | @<a href="https://github.com/hungham2806">hungham2806</a> | 2021-08-12 16:07:23 | Oreo Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/26.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-12 16:06:56 | Bear Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/0.png"> |
-| @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-12 16:00:00 | Bear Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/0.png"> |
 <p align="center"><img src="https://ntuyetngan.com/public/github/readme-bottom.png">
