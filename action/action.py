@@ -42,18 +42,10 @@ def get_gacha_lines(file, omiyage, skip_username, limit):
             if row[2] == skip_username:
                 continue
             gacha_lines.append(gen_table_line(omiyage, row))
-
-    count = 0
-
-    for line in reversed(gacha_lines):
-        lines.append(line)
-        count += 1
-        if count == limit:
-            break
-    return lines
+    return reversed(gacha_lines)[0, limit]
 
 ########### end of functions to be used ###########
-########### main function: actual file reading and code generating ###########
+########### actual file reading and code generating ###########
 omiyage_data_file = './action/omiyage.csv'
 template_top_file = './action/top.md'
 gacha_history_file = './action/history.csv'
