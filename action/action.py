@@ -23,7 +23,7 @@ def get_omiyage_data(file):
     return omiyage
 
 # read a fixed data file
-def get_static_lines(file)
+def get_static_lines(file):
     lines = []
     with open(file, 'r') as f:
       for line in f:
@@ -31,7 +31,7 @@ def get_static_lines(file)
     return lines
 
 # get the gacha lines
-def get_gacha_lines(file, omiyage, skip_username, limit)
+def get_gacha_lines(file, omiyage, skip_username, limit):
     lines = []
     gacha_lines = []
 
