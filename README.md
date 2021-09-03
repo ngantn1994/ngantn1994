@@ -29,4 +29,4 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 | @<a href="https://github.com/dhnptit">dhnptit</a> | 2021-08-12 16:19:27 | Fruit Cheese Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/15.png"> |
 | @<a href="https://github.com/hungham2806">hungham2806</a> | 2021-08-12 16:07:23 | Oreo Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/26.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-12 16:06:56 | Bear Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/0.png"> |
-<p align="center"><img src="https://ntuyetngan.com/public/github/readme-bottom.png">
+<p align="center"><img src="https://ntuyetngan.com/public/github/readme-end.png">
