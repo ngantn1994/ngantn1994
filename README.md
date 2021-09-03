@@ -1,4 +1,4 @@
-<p align="center"><img src="https://ntuyetngan.com/public/github/readme-top.png">
+<p align="center"><img src="https://ntuyetngan.com/public/github/readme-start.png">
 
 ## <p align="center"><img src="https://ntuyetngan.com/public/github/readme-hello.png" align="center">
 
