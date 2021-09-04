@@ -1,1 +1,1 @@
-<p align="center"><img src="https://ntuyetngan.com/public/github/readme-end.png">
+<p align="center"><img src="https://ntuyetngan.com/public/github/readme-deco.png">
