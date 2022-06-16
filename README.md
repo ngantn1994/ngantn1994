@@ -12,10 +12,11 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 
 
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif" width="25>
  
 
 
-<img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+<img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 
 
 
