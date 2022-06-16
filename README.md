@@ -12,7 +12,7 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 
 
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif" width="25>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif" width="25">
  
 
 
