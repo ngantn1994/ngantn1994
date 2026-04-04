@@ -2,7 +2,7 @@
 
 ## <p align="center"><img src="https://ntuyetngan.com/public/github/readme-greeting.png" align="center">
 
-My name is Ngan and I'm the Software Engineer you may find anywhere - not the greatest, not someone special, but the guy next door who can get the job done <img src="https://emojis.slackmojis.com/emojis/images/1597609912/10174/wfh_parrot.gif" width="25">
+2026 marks my 10th year working as a Software engineer, and I still feel hungry and foolish, with a lot of things I want to learn <img src="https://emojis.slackmojis.com/emojis/images/1597609912/10174/wfh_parrot.gif" width="25">
 You can find out more about me here in ✨<a href="https://ntuyetngan.com/" target="_blank">my portfolio</a>✨ or see my activities at work through @<a href="https://github.com/zaikotuyetngan">zaikotuyetngan</a> <img src="https://emojis.slackmojis.com/emojis/images/1643514599/6023/meow_peek.png" width="25">
 
 ## Before you go, please grab a snack <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png" width="25">
