@@ -3,7 +3,7 @@
 ## <p align="center"><img src="https://ntuyetngan.com/public/github/readme-greeting.png" align="center">
 
 2026 marks my 10th year working as a Software Engineer, and I still feel hungry and foolish, with a lot of things I want to learn <img src="https://emojis.slackmojis.com/emojis/images/1597609912/10174/wfh_parrot.gif" width="25">
-You can find out more about me here in ✨<a href="https://ntuyetngan.com/" target="_blank">my portfolio</a>✨ or see my activities at work through @<a href="https://github.com/zaikotuyetngan">zaikotuyetngan</a> <img src="https://emojis.slackmojis.com/emojis/images/1643514599/6023/meow_peek.png" width="25">
+You can find out more about me here in ✨<a href="https://ntuyetngan.com/" target="_blank">my portfolio</a>✨ or see my activities at work through @<a href="https://github.com/ntuyetngan">ntuyetngan</a> <img src="https://emojis.slackmojis.com/emojis/images/1643514599/6023/meow_peek.png" width="25">
 
 ## Before you go, please grab a snack <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png" width="25">
 Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emojis/images/1471119458/989/parrot_dad.gif" width="25">
@@ -14,7 +14,7 @@ Roll the gacha to see what you get <img src="https://emojis.slackmojis.com/emoji
 
 | Guest | Visited At | Omiyage |
 | :--- | :---: | :---: |
-| @<a href="https://github.com/zaikotuyetngan">zaikotuyetngan</a> | 2026-03-18 19:12:11 | Strawberry Cupcake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/11.png"> |
+| @<a href="https://github.com/ntuyetngan">ntuyetngan</a> | 2026-03-18 19:12:11 | Strawberry Cupcake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/11.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2022-02-20 15:05:21 | Chocolate Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/17.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-28 16:30:51 | Peanut Butter Cookie Cake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/27.png"> |
 | @<a href="https://github.com/minhnh94">minhnh94</a> | 2021-08-28 16:30:03 | Strawberry Cupcake <img src="https://ntuyetngan.com/public/github/omiyage/0/32/11.png"> |
